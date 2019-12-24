@@ -1252,6 +1252,9 @@ footer .credits a {
   .testimonial-box .description {
     padding: 0 13rem;
   }
+  .navbar .container{
+    max-width:90%;
+  }
 }
 
 @media (max-width: 768px) {
