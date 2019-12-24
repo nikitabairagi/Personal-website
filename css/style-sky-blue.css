@@ -898,6 +898,7 @@ left-styled li{
 
 .work-img img {
   transition: all 1s;
+  height:200px;
 }
 
 .work-content {
@@ -926,6 +927,9 @@ left-styled li{
 
 .work-content .w-like .num-like {
   font-size: .7rem;
+}
+.work-content .col-sm-9{
+    max-width:100%;
 }
 
 .w-title {
